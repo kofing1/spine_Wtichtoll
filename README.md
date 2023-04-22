@@ -18,6 +18,25 @@
 
 
 
+-----------------
+参考感谢：
+
+http://live2d.wiki.dev.gamekee.com/nikke/22
+
+https://github.com/Nikke-db/Nikke-db.github.io
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
