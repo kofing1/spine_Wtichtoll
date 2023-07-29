@@ -19,7 +19,7 @@
 
 
 -----------------
-参考感谢：
+reference：
 
 http://live2d.wiki.dev.gamekee.com/nikke/22
 
